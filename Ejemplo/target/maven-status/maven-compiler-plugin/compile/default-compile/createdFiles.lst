@@ -1,0 +1,5 @@
+Domain\Curso.class
+Domain\Profesor.class
+Main\Main.class
+Domain\Persona.class
+Domain\Estudiante.class
